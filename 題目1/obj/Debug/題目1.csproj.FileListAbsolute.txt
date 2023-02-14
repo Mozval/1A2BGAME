@@ -1,0 +1,8 @@
+C:\Users\威志.熊汶銨NLNLOEO\OneDrive\桌面\考核題目\題目1\bin\Debug\題目1.exe.config
+C:\Users\威志.熊汶銨NLNLOEO\OneDrive\桌面\考核題目\題目1\bin\Debug\題目1.exe
+C:\Users\威志.熊汶銨NLNLOEO\OneDrive\桌面\考核題目\題目1\bin\Debug\題目1.pdb
+C:\Users\威志.熊汶銨NLNLOEO\OneDrive\桌面\考核題目\題目1\obj\Debug\題目1.csproj.AssemblyReference.cache
+C:\Users\威志.熊汶銨NLNLOEO\OneDrive\桌面\考核題目\題目1\obj\Debug\題目1.csproj.SuggestedBindingRedirects.cache
+C:\Users\威志.熊汶銨NLNLOEO\OneDrive\桌面\考核題目\題目1\obj\Debug\題目1.csproj.CoreCompileInputs.cache
+C:\Users\威志.熊汶銨NLNLOEO\OneDrive\桌面\考核題目\題目1\obj\Debug\題目1.exe
+C:\Users\威志.熊汶銨NLNLOEO\OneDrive\桌面\考核題目\題目1\obj\Debug\題目1.pdb
